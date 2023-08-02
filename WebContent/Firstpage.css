@@ -1,0 +1,246 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.logof {
+  height: 50%;
+  width: 100%;
+ 
+}
+.ninja{
+	background-color: #101061e2;
+}
+.logoContainer {
+  position: relative;
+  display: inline-block;
+}
+
+
+.overlayText {
+  position: relative;
+  bottom: 5px;
+  right: 0;
+  padding: 10px;
+  color: black;
+  z-index: 3;
+  max-width: 100%;
+  background-color: orange;
+}
+
+.buttonContainer {
+	position: absolute;
+  bottom: 65px;
+  right: 5px;
+}
+
+.space {
+  padding-left: 200px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.button{
+   display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.button:hover{
+  background-color: #737581;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #33395d;
+  color: #fff;
+  height: 60px;
+  padding: 0 20px;
+}
+
+.List {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.listItem {
+  margin-right: 70px;
+  font-size: larger;
+  color: #fff;
+  text-decoration: none;
+  padding-left: 50px;
+}
+
+.listItem:hover {
+  text-decoration: underline;
+}
+
+section {
+  align-items: center;
+  justify-content: center;
+}
+
+#dev {
+  background-image: url(C:\Users\black\Desktop\riya.jpg);
+  height: 100%;
+  width: 100%;
+}
+.img{
+	 height: 100%;
+  width: 100%;
+}
+}
+
+
+.heading {
+  color: blue;
+  font-size: xx-large;
+  padding-top: 150px;
+  padding-left: 40px;
+}
+
+.head {
+  color: #fff;
+  font-size: 50px;
+}
+
+.aboutback {
+  background-color: #33395d;
+}
+
+.underline {
+  width: 100%;
+  height: 6px;
+  background-color: #333;
+  margin-top: 4px;
+}
+
+.photos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  color: #a8a4bf;
+  font-size: 50px;
+}
+
+.about p {
+  border-width: thick;
+  border-style: double;
+  border-color: green;
+  border-radius: 8px;		
+  background-color: #a8a4bf;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.course-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #a8a4bf;
+  
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.java-img {
+  width: 100px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+#software {
+  width: 100px;
+  height: 100px;
+}
+
+.gallery1 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gallery1 img {
+  width: 50%;
+  height: auto;
+}
+
+
+img {
+  height: 250px;
+  width: 350px;
+  margin-bottom: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  background-color: #33395d;
+  color: #fff;
+  padding: 20px 0;
+  font-size: 18px;
+}
+
+.container .row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container .row h3 {
+  margin-bottom: 20px;
+}
+
+.container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.container ul li {
+  margin-bottom: 10px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.social-icons li {
+  margin: 0 5px;
+}
+
+.social-icons li img {
+  width: 30px;
+  height: 30px;
+}
+.container{
+	
+	background-color: #a8a4bf;
+}
